@@ -28,6 +28,7 @@ public class CashBackHackerTest {
 
         assertEquals(expected, actual);
     }
+
     @org.testng.annotations.Test
     public void testRemain3() {
 
@@ -71,6 +72,7 @@ public class CashBackHackerTest {
 
         assertEquals(expected, actual);
     }
+
     @org.testng.annotations.Test
     public void testRemain7() {
 
